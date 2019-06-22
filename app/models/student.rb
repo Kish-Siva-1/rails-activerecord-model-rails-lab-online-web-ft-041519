@@ -1,2 +1,2 @@
-class Student < ActionController::Base
+class Student < ActiveRecord::Base
 end
